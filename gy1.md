@@ -1,7 +1,7 @@
 Feladatok: névterek, túlterhelés
 --------------------------------
 
-1. Készíts egy `utils` névteret és implementálj benne egy `print` nevű függvényt, amely kiírja a standard output-ra, hogí "Hello World"
+1. Készíts egy `util` névteret és implementálj benne egy `print` nevű függvényt, amely kiírja a standard output-ra, hogí "Hello World"
 Hívd meg ezt a függvényt a globális névtérbei `main` függvényből.
 
 2. A `util` namespace álljon két belső namespace-ből: `math` és `print`. A
