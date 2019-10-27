@@ -15,6 +15,7 @@ Készíts egy template láncolt lista adatszerkezetet, az alábbi tagfüggvénye
  - `has`: egy elemről eldönti, hogy benne van-e a listában
  - `front`: a lista első elemét adja vissza
  - `back`: a lista utolsó elemét adja vissza.
+ 
 A `size`, `print`, `has`, `front`, `back` műveleteknek működniük kell konstans listán is!
 
 -----
