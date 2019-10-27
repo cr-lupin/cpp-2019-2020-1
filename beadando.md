@@ -17,7 +17,7 @@ Készíts egy template láncolt lista adatszerkezetet, az alábbi tagfüggvénye
  - `back`: a lista utolsó elemét adja vissza.
 
 A `size`, `print`, `has`, `front`, `back` műveleteknek működniük kell konstans listán is!
-------------------------------------------------------------------------------
+-----
 
 4-eshez:
  - Nem konstans lista esetében a `has` tagfüggvény ha megtalálja a listában az adott elemet, akkor helyezze azt a lista elejére. (Így a gyakran keresett elemeket hamarabb találjuk meg)
