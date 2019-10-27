@@ -23,8 +23,9 @@ A `size`, `print`, `has`, `front`, `back` műveleteknek működniük kell konsta
 4-eshez:
  - Nem konstans lista esetében a `has` tagfüggvény ha megtalálja a listában az adott elemet, akkor helyezze azt a lista elejére. (Így a gyakran keresett elemeket hamarabb találjuk meg)
 -------------------------------------------------------------------
+
 5-öshöz:
  - `reverse`: megfordítja a listát. Konstans lista esetén új listát hoz létre, nem konstans lista esetén pedig helyben fordít
-
+------
 
 A jobb jegyhez a gyengébb jegyekhez tartozó feladatokat is meg kell oldani.
